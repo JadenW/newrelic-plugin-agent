@@ -19,6 +19,7 @@ NewRelic platform. Currently supported backend systems are:
 - Redis
 - Riak
 - uWSGI
+- VoltDB
 
 Base Requirements
 -----------------
